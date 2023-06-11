@@ -1,7 +1,7 @@
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local Gui = Material.Load({
-    Title = "trash game sim",
+    Title = "trash game sim Moonwalker781",
     Style = 3,
     SizeX = 250,
     SizeY = 350,
